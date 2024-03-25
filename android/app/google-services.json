@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44923052251",
+    "project_id": "expopushnotifications-d29f9",
+    "storage_bucket": "expopushnotifications-d29f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44923052251:android:4ad92964fbe8555ed56cfe",
+        "android_client_info": {
+          "package_name": "com.manuchitti.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9PaPo3-Jm7_8IW6AbAu9GXIXmt9k11z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
